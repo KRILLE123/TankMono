@@ -1,0 +1,5 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"C:/Users/INF/source/repos/Project1/Project1/Content/Base_color.png","C:/Users/INF/source/repos/Project1/Project1/Content/bin/Windows/Base_color.xnb","TextureProcessor","Texture2DContent",2056002,16777301,1,4756968
+"C:/Users/INF/source/repos/Project1/Project1/Content/gradient.jpg","C:/Users/INF/source/repos/Project1/Project1/Content/bin/Windows/gradient.xnb","TextureProcessor","Texture2DContent",8733,1638485,0,0944924
+"C:/Users/INF/source/repos/Project1/Project1/Content/mall.png","C:/Users/INF/source/repos/Project1/Project1/Content/bin/Windows/mall.xnb","TextureProcessor","Texture2DContent",818234,16777301,1,0165184
+"C:/Users/INF/source/repos/Project1/Project1/Content/rubiks2.png","C:/Users/INF/source/repos/Project1/Project1/Content/bin/Windows/rubiks2.xnb","TextureProcessor","Texture2DContent",380862,16777301,1,0502799
